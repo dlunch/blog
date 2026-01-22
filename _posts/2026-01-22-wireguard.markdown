@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "wireguard"
-date: 2026-01-26 21:10:00 +0900
+date: 2026-01-22 21:10:00 +0900
 ---
 
 데스크탑에 리눅스를 깔고 wgcf로 세팅한 wireguard profile로 0.0.0.0/0 route를 태웠더니 랜덤하게 패킷이 드랍되는지 되다 안 되는 현상 발견..
