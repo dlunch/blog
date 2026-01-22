@@ -23,7 +23,7 @@ email: blog@dlun.ch
 description: >- # this means to ignore newlines until "baseurl:"
   dlunch's blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://0x17.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.dlunch.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hcnuld
 github_username: dlunch
 linkedin_username: dlunch
